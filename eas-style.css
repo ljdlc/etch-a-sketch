@@ -1,0 +1,19 @@
+.workspace{
+    width: 500px;
+    height: 500px;
+    display: grid;    
+}
+
+.square{
+    width: 100%;
+    height: 100%;
+    background-color: grey;   
+    border-style: solid;
+    border-color: white;
+    border-width: 1px;  
+}
+
+.squareHover{
+    background-color: black;
+}
+
